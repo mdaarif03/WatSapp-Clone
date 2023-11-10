@@ -19,7 +19,7 @@ Connection();
 //     res.send("API is running...");
 //   });
 
-// -----------------------------Deployment----------------
+//  -----------------------------Deployment----------------
 
 const __dirname1 = path.resolve()
 if (process.env.NODE_ENV==="production") {
